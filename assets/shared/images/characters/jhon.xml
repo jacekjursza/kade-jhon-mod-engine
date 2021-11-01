@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="jhon.png"><SubTexture name="jhon down0000" x="0" y="0" width="355" height="369" frameX="0" frameY="0" frameWidth="355" frameHeight="369" />
+<SubTexture name="jhon idle0000" x="355" y="0" width="313" height="394" frameX="0" frameY="0" frameWidth="313" frameHeight="394" />
+<SubTexture name="jhon idle0001" x="668" y="0" width="313" height="334" frameX="0" frameY="0" frameWidth="313" frameHeight="334" />
+<SubTexture name="jhon left0000" x="981" y="0" width="213" height="342" frameX="0" frameY="0" frameWidth="213" frameHeight="342" />
+<SubTexture name="jhon right0000" x="0" y="394" width="309" height="348" frameX="0" frameY="0" frameWidth="309" frameHeight="348" />
+<SubTexture name="jhon up0000" x="309" y="394" width="268" height="314" frameX="0" frameY="0" frameWidth="268" frameHeight="314" />
+</TextureAtlas>
